@@ -1,18 +1,18 @@
 ## Hi, I'm Marcos Antonio, I'm a geek, Marvel fan and full stack web developer in training.
 
-More about me:
+About me:
 - I am a fourth year civil engineering student at the Federal University of Rio de Janeiro.
 - But my passion is and always has been programming, so I decided to change course and I’m studying to become a full stack web developer.
 - I am currently studying web development at Driven Education.
-- At the same time, I am reinforcing my training by studying through the Alura platform (as a self-taught person) and through HiringCoders.
-- I have no preferences regarding languages or tools. I like what works.
-- And finally, I know the name of all pokemons from Pokemon season 1.
+<!-- - At the same time, I am reinforcing my training by studying through the Alura platform (as a self-taught person) and through HiringCoders. -->
+<!-- - I have no preferences regarding languages or tools. I like what works. -->
+<!-- - And, I know the name of all pokemons from Pokemon season 1. -->
 
 <br>
 <div align="center">
   <a href="https://github.com/marcos-asdes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-asdes&hide=none&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-asdes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcos-asdes&hide=none&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-asdes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,3 +30,7 @@ More about me:
 <div align="center">
   <img src="https://github.com/marcos-asdes/marcos-asdes/blob/output/github-contribution-grid-snake.svg">
 </div>
+  
+<br>
+  
+![](https://komarev.com/ghpvc/?username=marcos-asdes)
