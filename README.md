@@ -1,12 +1,12 @@
-## Hi, I'm Marcos Antonio, I'm a geek, Marvel fan and full stack web developer in training.
+## Oi, eu sou o Marcos Antonio, atualmente sou desenvolvedor full stack.
 
-About me:
-- I am a fourth year civil engineering student at the Federal University of Rio de Janeiro.
-- But my passion is and always has been programming, so I decided to change course and I’m studying to become a full stack web developer.
-- I am currently studying web development at Driven Education.
-<!-- - At the same time, I am reinforcing my training by studying through the Alura platform (as a self-taught person) and through HiringCoders. -->
-<!-- - I have no preferences regarding languages or tools. I like what works. -->
-<!-- - And, I know the name of all pokemons from Pokemon season 1. -->
+Sobre mim:
+- Eu vim de um ramo um pouco diferente, cursei 4 anos de engenharia civil na Universidade Federal do Rio de Janeiro.
+- Contudo, após muita reflexão, decidi por seguir para uma carreira que eu realmente amasse e que me inspirasse, então migrei para a área de desenvolvimento.
+- Com o objetivo de acelerar meu aprendizado no ramo, me formei em desenvolvimento full stack através da Driven Education.
+- Meu principal objetivo é me inserir profissionalmente no mercado de tecnologia, assim como migrar a graduação para essa área, e eventualmente fazer uma pós para me especializar ainda mais.
+- Sim, eu amo aprender, estudar continuamente é a minha lei.
+- E também sou fã da Marvel, gosto de músicas em francês e em inglês, além da minha querida MPB. Adoro conversar e acredito que sempre tem espaço para mais um amigo no coração.
 
 <br>
 <div align="center">
