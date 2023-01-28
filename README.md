@@ -3,11 +3,11 @@
 ### [Out/22 - Dez/22] Período escrevendo tese.
 ### [NOW] Voltando pra ativa:exclamation:
 
-Sobre minhas hards skills :star::
+Sobre minhas hard skills :star::
 - Eu escrevo front-end em Javascript, geralmente com o React.js, mas também curto muito o Next.js e o Vue.js e pretendo lançar projetos nesses frameworks em 2023. 
-- Já o back-end eu escrevo preferencialmente em Typescript, mas também sei fazer com Javascript, ambos pelo Node.js, e quem sabe também não saia algo em Nest.js por aqui em breve. 
-- No momento estou aprendendo Java e Spring Boot para back-end, para ter mais portfólio em programação orientada a objetos (OOP).
-- Quando o assunto é banco de dados, em relacionais (SQL) eu gosto muito do postgres (podendo ser com ou sem auxílio de ORM), em não relacionais (noSQL) eu uso bastante o MongoDB, e para cache o Redis.
+- Já o back-end, escrevo preferencialmente em Typescript, mas também sei fazer com Javascript, ambos pelo Node.js, e quem sabe também não saia algo em Nest.js por aqui em breve. 
+- No momento estou aprendendo Java e Spring Boot para back-end, visando aumentar meu portfólio em programação orientada a objetos (OOP).
+- Quando o assunto é banco de dados, nos relacionais (SQL) eu uso muito o postgres (podendo ser com ou sem auxílio de ORM), nos não relacionais (noSQL) eu uso bastante o MongoDB, e para cache o Redis.
 - De forma resumida, domino ou conheço bem um monte de outras coisas como: CSS, HTML, XML, Docker, nginx, API REST, testes (unitários, e2e) com jest e cypress, GitHub Actions (CI/CD), e até Excel e VBA.
 - Além disso, estou sempre disposto a aprender novas linguagens e tecnologias, não me fecho a novas oportunidades, é bem como diz o ditado: "não existe tempo ruim pra mim".
 
@@ -27,16 +27,39 @@ Sobre mim :panda_face::
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-asdes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!--FUTURE--><!--<img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  
+  <img align="center" alt="postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="redis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  
+  <img align="center" alt="heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+  <img align="center" alt="nginx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  
+  <img align="center" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="eslint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  
+  <!--FUTURE--><!--<img align="center" alt="vuejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />-->
+  <!--FUTURE--><!--<img align="center" alt="nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />-->
+  <!--FUTURE--><!--<img align="center" alt="nestjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />-->
+  <!--FUTURE--><!--<img align="center" alt="svelte" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />-->
+  <!--FUTURE--><!--<img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
 </div>
   
 ##
-<a href = "mailto:marco.engc@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:marco.engc@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcos-asdes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <div align="center">
