@@ -1,12 +1,24 @@
-## Oi, eu sou o Marcos Antonio, atualmente sou desenvolvedor full stack.
+## Oi, eu me chamo Marcos Antonio e sou desenvolvedor web full stack.
 
-Sobre mim:
-- Eu vim de um ramo um pouco diferente, cursei 4 anos de engenharia civil na Universidade Federal do Rio de Janeiro.
-- Contudo, após muita reflexão, decidi por seguir para uma carreira que eu realmente amasse e que me inspirasse, então migrei para a área de desenvolvimento.
-- Com o objetivo de acelerar meu aprendizado no ramo, me formei em desenvolvimento full stack através da Driven Education.
-- Meu principal objetivo é me inserir profissionalmente no mercado de tecnologia, assim como migrar a graduação para essa área, e eventualmente fazer uma pós para me especializar ainda mais.
-- Sim, eu amo aprender, estudar continuamente é a minha lei.
-- E também sou fã da Marvel, gosto de músicas em francês e em inglês, além da minha querida MPB. Adoro conversar e acredito que sempre tem espaço para mais um amigo no coração.
+### [Out/22 - Dez/22] Período escrevendo tese.
+### [NOW] Voltando pra ativa:exclamation:
+
+Sobre minhas hards skills :star::
+- Eu escrevo front-end em Javascript, geralmente com o React.js, mas também curto muito o Next.js e o Vue.js e pretendo lançar projetos nesses frameworks em 2023. 
+- Já o back-end eu escrevo preferencialmente em Typescript, mas também sei fazer com Javascript, ambos pelo Node.js, e quem sabe também não saia algo em Nest.js por aqui em breve. 
+- No momento estou aprendendo Java e Spring Boot para back-end, para ter mais portfólio em programação orientada a objetos (OOP).
+- Quando o assunto é banco de dados, em relacionais (SQL) eu gosto muito do postgres (podendo ser com ou sem auxílio de ORM), em não relacionais (noSQL) eu uso bastante o MongoDB, e para cache o Redis.
+- De forma resumida, domino ou conheço bem um monte de outras coisas como: CSS, HTML, XML, Docker, nginx, API REST, testes (unitários, e2e) com jest e cypress, GitHub Actions (CI/CD), e até Excel e VBA.
+- Além disso, estou sempre disposto a aprender novas linguagens e tecnologias, não me fecho a novas oportunidades, é bem como diz o ditado: "não existe tempo ruim pra mim".
+
+Sobre mim :panda_face::
+- Minha lei pessoal tem dois artigos: o primeiro é estudar continuamente e o segundo é ser uma pessoa melhor a cada novo dia. 
+- Gosto muito de músicas em francês, inglês e claro, em português, com ênfase para minha querida MPB.
+- Meus hobbies são totalmente aleatórios, quando não estou lendo sobre tecnologia, ouvindo podcasts da área ou vendo os vídeos do Fabio Akita, eu gasto muito do meu tempo livre em três categorias:
+1. Lendo livros de história ou astronomia, meus preferidos são os clássicos e clichês Sapiens e Homo Deus.
+2. Ouvindo podcasts de história ou geopolítica, onde meu preferido é sem dúvidas o Xadrez Verbal.
+3. E jogando jogos de estratégia, daqueles que fazem todos os neurônios malharem, como Stellaris, Europa Universalis, Kerbal Space Program, Factorio, Dyson Sphere Program, etc.
+- Por fim, sem dúvidas minha melhor e pior característica é que eu adoro conversar, eu falo muito, as vezes sem parar (essa é a parte ruim), e também sempre estou disposto a ouvir, gosto de relacionamentos construtivos e acredito que sempre tem espaço para mais um amigo no coração :smile:.
 
 <br>
 <div align="center">
@@ -18,7 +30,7 @@ Sobre mim:
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!--FUTURE--><!--<img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
+  <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <!--FUTURE--><!--<img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
 </div>
