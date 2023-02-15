@@ -6,9 +6,9 @@
 Sobre minhas hard skills :star::
 - Eu escrevo front-end em Javascript, geralmente com o React.js, mas também curto muito o Next.js e o Vue.js e pretendo lançar projetos nesses frameworks em 2023. 
 - Já o back-end, escrevo preferencialmente em Typescript, mas também sei fazer com Javascript, ambos pelo Node.js, e quem sabe também não saia algo em Nest.js por aqui em breve. 
-- No momento estou aprendendo Java e Spring Boot para back-end, visando aumentar meu portfólio em programação orientada a objetos (OOP).
+- No momento estou aprendendo C# e .NET para back-end, visando aumentar meu portfólio em programação orientada a objetos (OOP).
 - Quando o assunto é banco de dados, nos relacionais (SQL) eu uso muito o postgres (podendo ser com ou sem auxílio de ORM), nos não relacionais (noSQL) eu uso bastante o MongoDB, e para cache o Redis.
-- De forma resumida, domino ou conheço bem um monte de outras coisas como: CSS, HTML, XML, Docker, nginx, API REST, testes (unitários, e2e) com jest e cypress, GitHub Actions (CI/CD), e até Excel e VBA.
+- De forma resumida, domino ou conheço bem um monte de outras coisas como: CSS, HTML, XML, Docker, nginx, API REST, testes (unitários, e2e) com jest e cypress, GitHub Actions (CI/CD), e até Excel, PowerBI e VBA.
 - Além disso, estou sempre disposto a aprender novas linguagens e tecnologias, não me fecho a novas oportunidades, é bem como diz o ditado: "não existe tempo ruim pra mim".
 
 Sobre mim :panda_face::
@@ -31,11 +31,14 @@ Sobre mim :panda_face::
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+  <!--FUTURE--><!--<img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />-->
   
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="dotnet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <!--FUTURE--><!--<img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />-->
   
   <img align="center" alt="postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
