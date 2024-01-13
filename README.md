@@ -13,7 +13,7 @@ Sobre minhas hard skills :rocket::
 - Além disso, estou sempre disposto a aprender novas linguagens e tecnologias, não me fecho a novas oportunidades, é bem como diz o ditado: "não existe tempo ruim pra mim".
 
 Sobre mim :wink::
-- No momento, atuo como desenvolvedor web/pwa na Rede D'Or e sou estudante de engenharia da computação pela UERJ.
+- No momento, atuo como desenvolvedor web/pwa na Rede D'Or e sou estudante de <a href="https://www.dep.uerj.br/fluxos/engenharia_eletrica_enfase_em_sistemas_e_computacao.pdf">engenharia da computação</a> pela UERJ .
 - Minha lei pessoal tem dois artigos: o primeiro é estudar continuamente e o segundo é ser uma pessoa melhor a cada novo dia. 
 - Gosto muito de músicas em francês, inglês e claro, em português, com ênfase para minha querida MPB.
 - Meus hobbies são totalmente aleatórios, quando não estou lendo sobre tecnologia, ouvindo podcasts da área ou vendo os vídeos do Fabio Akita, eu gasto muito do meu tempo livre em três categorias:
